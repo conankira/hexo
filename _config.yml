@@ -5,8 +5,8 @@
 # Site
 title: Thumbor
 subtitle: Thumbor
-description: Thumbor
-author: xushubing
+description: Thumbor 红楼梦 林黛玉 Adele make you feel my love
+author: e27018411@gmail.com
 language: zh-CN
 timezone:
 email: e27018411@gmail.com
@@ -23,7 +23,7 @@ thumbnail: true
 # Sidebar
 sidebar: left # sidebar's position (left or right)
 social_links:
-  twitter: conankira
+  twitter: https://twitter.com/thumbor
   facebook: 
   google-plus: 
   github: https://github.com/conankira
@@ -88,8 +88,6 @@ deploy:
 menu:
   Home: /
   Categories: /categorie
-  归档: /archives
-  Tags: /tag
   About: /about
 
 
@@ -136,3 +134,5 @@ twitter: #右边栏要显示twitter展示的话，需要在此设置
   username: conankira
   show_replies: false
   tweet_count: 5
+sitemap:
+    path: sitemap.xml
